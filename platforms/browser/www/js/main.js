@@ -3,13 +3,13 @@
  var user = localStorage.getItem('username');        
 var pass = localStorage.getItem('password');        
 
-var wordpress_url = 'http://localhost/wordpress/wp-content/plugins/alln1api/m_api.php';
-var wordpress_product = 'http://localhost/wordpress/wp-content/plugins/alln1api/?api_key=3141f77106d9a241a6ff2db84a44b894';
-var wordpress_order = 'http://localhost/wordpress/wp-json/api/order';
+// var wordpress_url = 'http://localhost/wordpress/wp-content/plugins/alln1api/m_api.php';
+// var wordpress_product = 'http://localhost/wordpress/wp-content/plugins/alln1api/?api_key=3141f77106d9a241a6ff2db84a44b894';
+// var wordpress_order = 'http://localhost/wordpress/wp-json/api/order';
 
-// var wordpress_url = 'http://gregoriobalonzo.ml/wordpress/wp-content/plugins/alln1api/m_api.php';
-// var wordpress_product = 'http://gregoriobalonzo.ml/wordpress/wp-content/plugins/alln1api/?api_key=1e736ca30a127c054ff85169bd8a258e';
-// var wordpress_order = 'http://gregoriobalonzo.ml/wordpress/wp-content/plugins/alln1api/m_api.php';
+var wordpress_url = 'http://gregoriobalonzo.ml/wordpress/wp-content/plugins/alln1api/m_api.php';
+var wordpress_product = 'http://gregoriobalonzo.ml/wordpress/wp-content/plugins/alln1api/?api_key=1e736ca30a127c054ff85169bd8a258e';
+var wordpress_order = 'http://gregoriobalonzo.ml/wordpress/wp-content/plugins/alln1api/m_api.php';
 
 
 

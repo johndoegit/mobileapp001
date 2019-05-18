@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "Mobileapp",
+  "short_name": "Mobileapp",
+  "version": "io.cordova.Mobileapp",
+  "description": "Mobileapp",
+  "author": "Apache Cordova Team",
+  "icons": [],
+  "start_url": "index.html"
+}
